@@ -10,7 +10,7 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
 
 ## Contents
 
- * [References](#referemces)
+ * [References](#references)
  * [General](#general)
  * [Hiring](#hiring)
  * [Management](#management)
