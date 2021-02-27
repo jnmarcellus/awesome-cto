@@ -23,6 +23,9 @@ A curated **and opinionated** list of resources for Chief Technology Officers, w
  * [Marketing](#marketing)
  * [More links](#more-links)
 
+## References
+* [Dima Kuchin] (https://github.com/kuchin/awesome-cto) Dima's Awesome CTO Guide
+
 
 ## General
  * [The Different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html) - Werner Vogels *(Amazon CTO)*
